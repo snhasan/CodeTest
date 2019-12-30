@@ -1,0 +1,14 @@
+.create_item{
+	position: fixed;
+    bottom: 20px;
+    right: 70px;
+    
+}
+.create_item i{
+	color: #5cb85c;
+}
+.notification-alert{
+	position: fixed;
+    top: 135px;
+    right: 100px;
+}
